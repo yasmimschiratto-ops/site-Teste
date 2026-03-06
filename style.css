@@ -22,3 +22,19 @@ a {
     align-items: center;
     justify-content: center;
 } 
+
+.conteudo-botao {
+    display:flex;
+    justify-content: space-around;
+    height: 50px;
+    width: 150px;
+}
+
+button {
+    height: 30px;
+    width: 50px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    color: aquamarine;
+    font-weight: 600;
+}
